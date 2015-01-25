@@ -43,7 +43,7 @@ cacheSolve <- function(x, ...) {
 
 }
 
-# Test
+# Testing
 x<-matrix(1:4,2,2)
 flist$set(matrix(c(4,16,4,8),nrow=2,ncol=2))
 #generate the makeCacheMatrix object with x
